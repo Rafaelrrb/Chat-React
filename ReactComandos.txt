@@ -1,0 +1,32 @@
+yarn init -y
+  inicializa o projeto criando o package.json
+
+yarn add next react react-dom
+  instala as bibliotecas que vão ser usadas
+
+Abrir o pakege.json e add o seguinte codigo
+
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+    }
+
+Criar a pasta "pages" e dentro dela o " index.js "
+
+yarn dev
+  usa esse comando pra rodar o projeto seguindo o padrão usado no package.js
+
+Abri o navegar e buscar o caminho http://localhost:3000/
+
+Referencias:
+  https://storybook.js.org/
+    yarn add @skynexui/components
+      instala no seu projeto
+
+  https://vercel.com/
+    Botar sua pagina online mas pra isso seu projeto tem que estar no github
+
+npx gitignore node
+  gera o gitignore
