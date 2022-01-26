@@ -30,3 +30,6 @@ Referencias:
 
 npx gitignore node
   gera o gitignore
+
+_app.js
+  É uma pagina que não vai ser gerada vão apenas add conteudos a todas as paginas que já existem
