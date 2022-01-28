@@ -82,7 +82,7 @@ export default function PaginaInicial() {
               // direciona para a proxima pagina
               //window.location.href = '/chat'
               // direciona pagina usando o React
-              roteamento.push('/chat')
+              roteamento.push(`/chat?username=${username}`)
             }}
             styleSheet={{
               display: 'flex',
