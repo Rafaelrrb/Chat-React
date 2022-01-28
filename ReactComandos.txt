@@ -28,6 +28,12 @@ Referencias:
   https://vercel.com/
     Botar sua pagina online mas pra isso seu projeto tem que estar no github
 
+  https://supabase.com/
+    usar para criar o backend 
+
+  https://github.com/supabase/supabase-js
+    yarn add @supabase/supabase-js
+
 npx gitignore node
   gera o gitignore
 
